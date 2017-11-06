@@ -3,7 +3,8 @@
 
 ## Objectives
 
-* [ ] TodoList Client
+* [*] TodoList Client
+* [*] Deploy client with docker
 * [ ] TodoList Server
 * [ ] TodoList DataBase
 * [ ] devops integration
